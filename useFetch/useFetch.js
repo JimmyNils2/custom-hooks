@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
 /**
- * 
+ * Handle HTTP request
  * @param {string} url 
  * @returns 
  */
